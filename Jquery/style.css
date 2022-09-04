@@ -1,0 +1,14 @@
+.mystyle {
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+  
+    font-size: larger;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.mystyle2 {
+    font-weight: 900;
+    font-style: normal;
+    color: deeppink;
+}
